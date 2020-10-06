@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://bananaeducation.netlify.app/"
 
 languageCode = "de-de"
 DefaultContentLanguage = "de"
