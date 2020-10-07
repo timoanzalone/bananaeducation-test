@@ -1,112 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ace documentation on Banana Buchhaltung Education</title>
-    <link>/</link>
-    <description>Recent content in Ace documentation on Banana Buchhaltung Education</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <title>Banana Comptabilité Education</title>
+    <link>https://bananaeducation.netlify.app/</link>
+    <description>Recent content on Banana Comptabilité Education</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://bananaeducation.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alerts</title>
-      <link>/shortcodes/alerts/</link>
+      <title>Activité 1</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/alerts/</guid>
-      <description>The alerts shortcode allows you to let information stand out by means of an alert styled box. This can be used to indicate danger, warning, success or info.
- I&amp;rsquo;m a danger alert  I&amp;rsquo;m a warning alert  I&amp;rsquo;m a success alert  I&amp;rsquo;m an info alert  Usage Place the following shortcode on the page Copy   {{&amp;lt; alert style=&amp;#34;STYLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /alert &amp;gt;}}    Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;alert-{STYLE}&amp;quot;.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity1/</guid>
+      <description>Activité 1 : Approche introductive Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Définition des concepts de base 2. Importance du logiciel comptable 3. Caractéristiques du logiciel Banana Comptabilité 4. Présentation du Logiciel Banana Comptabilité    A. Fiche Pédagogique 1. Objectifs spécifiques Au terme de cette activité, le participant sera capable de :</description>
     </item>
     
     <item>
-      <title>Buttons</title>
-      <link>/shortcodes/buttons/</link>
+      <title>Activité 2</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/buttons/</guid>
-      <description>The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.
- Button  Button  Button  Button  Button  Button  Button  Usage Place the following shortcode on the page Copy   {{&amp;lt; button style=&amp;#34;STYLE&amp;#34; link=&amp;#34;https://yourwebsite.com&amp;#34; &amp;gt;}} [content] {{&amp;lt; /button &amp;gt;}}    Parameters style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;btn-{STYLE}&amp;quot;.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity2/</guid>
+      <description>Activité 2 : Configuration du plan des comptes Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique   1. Notions
+  2. Différents types des lignes et des sections
+  3. Explication des colonnes de la comptabilité en partie double
+  4. Configuration du plan de comptes selon le modèle OHADA</description>
     </item>
     
     <item>
-      <title>Childpages</title>
-      <link>/shortcodes/childpages/</link>
+      <title>Activité 3</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/childpages/</guid>
-      <description>The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the Getting started page of this documentation has three child pages: Installation, Configuration and Creating content. Placing the childpages shortcode in the Getting started page will place a create a list of these sub-pages in that page.
-Usage Simply place the following shortcode on the page Copy   {{&amp;lt; childpages &amp;gt;}}    </description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity3/</guid>
+      <description>Activité 3 : Comptabilisation Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Notions 2. Types d&amp;rsquo;écritures    A. Fiche Pédagogique 1. Objectifs spécifiques : Au terme de cette activité, le participant sera capable de (d&#39;) :
+  Expliquer les notions de la comptabilisation à l&amp;rsquo;aide du logiciel comptable ;</description>
     </item>
     
     <item>
-      <title>Code</title>
-      <link>/shortcodes/code/</link>
+      <title>Activité 4</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/code/</guid>
-      <description>Add code to your page with syntax highlighting and a copy button so your users can easily copy the code to their clipboard with the press of a button. The code may be entered inside the shortcode or come from an external file.
-Copy   &amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white&amp;#34;&amp;gt; &amp;lt;h1 class=&amp;#34;title&amp;#34;&amp;gt;Hi there&amp;lt;/h1&amp;gt; &amp;lt;p class=&amp;#34;lead&amp;#34;&amp;gt;I&amp;#39;m inside a code shortcode. Check out my syntax highlighting!.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;    Usage Simply place the following shortcode on the page</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity4/</guid>
+      <description>Activité 4 : Introduction à la facturation dans Banana Comptabilité Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Créer une nouvelle facture 2. Adapter le fichier comptable existant pour insérer et imprimer les factures 3. Fichier séparé uniquement pour les factures 4. Les colonnes du tableau des écritures spécifiques pour les factures 5.</description>
     </item>
     
     <item>
-      <title>Collapse</title>
-      <link>/shortcodes/collapse/</link>
+      <title>Activité 5</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/collapse/</guid>
-      <description>Feel like hiding some content from your visitor in a collapsible element? The collapse shortcode does exactly that. It creates a button that shows or hides the content in the shortcode on request.
-Click me to show content  Hi there, I&#39;m the hidden content. Didn&#39;t see that one coming, huh?   Usage Simply place the following shortcode on the page Copy   {{&amp;lt; collapse title=&amp;#34;TITLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /collapse &amp;gt;}}    Parameters title The lang parameter defines the text to show in the button that toggles the collapse content.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity5/</guid>
+      <description>Activité 5: Gestion de trésorerie Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Notions 2. Caractéristiques 3. Tableaux et Propriétés fichiers 4. Commencer un Cash Manager 5. Insérer le solde d&amp;rsquo;ouverture du compte caisse ou banque 6. Catégories 7. Regroupement 8. Les colonnes du tableau Catégories 9. Écritures 10. Importer mouvements de la caisse    A.</description>
     </item>
     
     <item>
-      <title>Doublecode</title>
-      <link>/shortcodes/doublecode/</link>
+      <title>Activité 6</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/doublecode/</guid>
-      <description>The doublecode shortcode works the same as the code shortcode, but extends the functionality by also rendering the code in the page. This is useful for showing the code of HTML elements in your page.
-Hi there
-I&#39;m inside a doublecode shortcode, that&#39;s why I look so fancy.
-   Copy   &amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary&amp;#34;&amp;gt; &amp;lt;p class=&amp;#34;h4 title&amp;#34;&amp;gt;Hi there&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;lead mb-0&amp;#34;&amp;gt;I&amp;#39;m inside a doublecode shortcode, that&amp;#39;s why I look so fancy.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity6/</guid>
+      <description>Activité 6: Gestion des actifs Immobilisés amortissables (Registre des actifs) Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Notions 2. Contenu du registre des biens amortissables 3. Tenue du registre des biens amortissables 4. Tableau Ecritures 5. Les colonnes tableau d&amp;rsquo;écriture amortissement 6. Importer lignes des amortissements en comptabilité    A.</description>
     </item>
     
     <item>
-      <title>Lead</title>
-      <link>/shortcodes/lead/</link>
+      <title>Activité 7</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/lead/</guid>
-      <description>The lead shortcode creates a paragraph with the lead class to make it stand out. Great for introductions or summaries.
-I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you can see that. Usage Simply place the following shortcode on the page Copy   {{&amp;lt; lead &amp;gt;}} [content] {{&amp;lt; /lead &amp;gt;}}    </description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity7/</guid>
+      <description>Activité 7: Edition des Grand Livre, Balance et états financiers Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Le Grand Livre 2. La Balance 3. Les états financiers (Bilan, Compte de Résultat et Tableau des flux de Trésorerie)    A. Fiche Pédagogique 1. Objectifs spécifiques : Au terme de cette activité, le participant sera capable d&amp;rsquo;éditer ou d&amp;rsquo;imprimer le grand livre, la balance et les états financiers.</description>
     </item>
     
     <item>
-      <title>Panel</title>
-      <link>/shortcodes/panel/</link>
+      <title>Activité 8</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/panel/</guid>
-      <description>Draw your visitor&amp;rsquo;s attention by separating information from the rest of the page using a panel. Convey meaning to this information by using colors implying danger, warning, success or info in a similar fashion as alerts.
-I&amp;#39;m important  Be sure to read me, I might have important information for you.    Usage Simply place the following shortcode on the page Copy   {{&amp;lt; panel title=&amp;#34;TITLE&amp;#34; style=&amp;#34;STYLE&amp;#34; &amp;gt;}} [content] {{&amp;lt; /panel &amp;gt;}}    Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;border-{STYLE}&amp;quot;.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity8/</guid>
+      <description>Activité 8: Comprendre les Différentes Lignes des Tableaux de Flux de Trésorerie Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Trésorerie nette au 01/01/N 2. Capacité d&amp;rsquo;Autofinancement Globale (CAFG) 3. Variation actif circulant HAO 4. Variation des stocks 5. Variation des créances 6. Variation des passifs circulants 7. Décaissements liés aux acquisitions d&amp;rsquo;immobilisations incorporelles 8.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/realschule/readmealt/</link>
+      <title>Activité 9</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/realschule/readmealt/</guid>
-      <description>Jahrgangsstufe 10 Moderiertes Forum
-Dieses Forum freut sich �ber den Austausch von Unterrichtsideen und konkreten Materialien, mit denen Kollegen und Kolleginnen arbeiten k�nnen. Von dem Austausch k�nnen alle am Besten profitieren, wenn jeder etwas beitr�gt. Alle, was Ihre Sch�ler&amp;rsquo;innen und Kolleg&amp;rsquo;innen weiterbringt und hilft, Buchhaltungssoftware im Unterricht nutzenstiftend und sinnbringend einzusetzen ist willkommen.
-Alle freuen sich �ber Beitr�ge in Form von:
-Buchhaltungsvorlagen Unterrichtskonzeptionen Konkrete Materialien wie Beispielfirmen, Belege, Gesch�ftsvorf�lle, �bungen, Projekte f�r Buchhaltungs- oder Wirtschafts-AGs etc.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity9/</guid>
+      <description>Activité 9: Protection des écritures et des données comptables (Bloquer écritures et certification) Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Certification Digitale 2. Commande Bloquer Écritures 3. Hash Progressif 4. Contrôler Bloc 5. Débloquer Écritures 6. Déblocage Partiel 7. Pourquoi débloquer la comptabilité ? 8. Organiser la certification et la vérification 9.</description>
     </item>
     
     <item>
-      <title>Table</title>
-      <link>/shortcodes/table/</link>
+      <title>Activité 10</title>
+      <link>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/shortcodes/table/</guid>
-      <description>The table shortcode allows you to wrap your tables in a tableclass, providing styling to the table such as borders, stripes and hover effects.
-   Tables are cool     col 3 is right-aligned $1600   col 2 is centered $12   zebra stripes are neat $1     Usage Place the following shortcode on the page Copy   {{&amp;lt; table style=&amp;#34;STYLE&amp;#34; &amp;gt;}} | Tables | are | cool | | ------------- |:-------------:| -----:| | col 3 is | right-aligned | $1600 | | col 2 is | centered | $12 | | zebra stripes | are neat | $1 | {{&amp;lt; /table &amp;gt;}}    Parameters Style The style parameter is directly applied to the table as a class in the format &amp;quot;{STYLE}&amp;quot;.</description>
+      <guid>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity10/</guid>
+      <description>Activité 10: étude de cas de l&amp;rsquo;entité La COM RDC Contenu:
+ A. Fiche Pédagogique  1. Objectifs spécifiques 2. Supports 3. Méthodes et Techniques 4. Durée 5. Déroulement de l&amp;rsquo;activité   B. Fiche Technique  1. Énoncé de l&amp;rsquo;application 2. Les opérations réalisées durant l&amp;rsquo;année 2020 3. Résolution    A. Fiche Pédagogique 1. Objectifs spécifiques : Au terme de cette activité, le participant sera capable de :</description>
     </item>
     
   </channel>

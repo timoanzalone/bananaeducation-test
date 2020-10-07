@@ -2,6 +2,15 @@
 
 <h1>{{ .Title }}</h1>
 
+<span>
+{{ if $.Param "author" }}
+Author: {{ $.Param "author"}}<br>
+{{ end }}
+{{ .Lastmod }}
+</span>
+
+
+
 {{ .Content }}
 
     {{ if .IsTranslated }}
