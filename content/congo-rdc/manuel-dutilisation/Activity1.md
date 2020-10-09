@@ -1,11 +1,11 @@
 +++
-title = "Activité 1"
+title = "Activité 1: Approche introductive"
 description =""
 weight = "1"
 author = "john"
 +++
 
-## **Activité 1 : Approche introductive**
+# Activité 1: Approche introductive
 
 Contenu:
 
@@ -22,7 +22,7 @@ Contenu:
     - [4. Présentation du Logiciel Banana Comptabilité](#4-présentation-du-logiciel-banana-comptabilité)
 
 
-### A. Fiche Pédagogique 
+## A. Fiche Pédagogique
 
 
 #### 1. Objectifs spécifiques

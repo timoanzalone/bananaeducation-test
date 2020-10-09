@@ -1,65 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity1/</loc>
-  </url>
+  <sitemap>
+    <loc>https://bananaeducation.netlify.app/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/</loc>
-  </url>
+  <sitemap>
+    <loc>https://bananaeducation.netlify.app/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity4/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity5/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity7/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity8/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity9/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity10/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bananaeducation.netlify.app/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>

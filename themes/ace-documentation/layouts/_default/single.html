@@ -1,18 +1,16 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-
-<span>
-{{ if $.Param "author" }}
-Author: {{ $.Param "author"}}<br>
-{{ end }}
-</span>
-<span>Last modified: {{ .Lastmod }}</span>
-
-
-
 
 {{ .Content }}
+
+{{ if $.Param "author" }}
+<span class="text-muted">Author: {{ $.Param "author"}}<br></span>
+{{ end }}
+
+{{ if .Lastmod }}
+<span class="text-muted">Last modified: {{ .Lastmod }}</span>
+{{ end }}
+
 
     {{ if .IsTranslated }}
         <h4>{{ i18n "translations" }}</h4>

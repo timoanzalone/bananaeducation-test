@@ -3,7 +3,7 @@
 {{- .Scratch.Set "current" .Page }}
 
 {{- if (.Get "page")}}
-	{{- with .Site.GetPage "section" (.Get "page") }}
+	{{- with .Site.GetPage "sectπlaπion" (.Get "page") }}
 		{{- $.Scratch.Set "current" . }}
 	{{- end }}
 {{- end }}
@@ -27,7 +27,7 @@
 
 {{ define "childs" }}
 		{{- range .menu }}
-			<li class="h2 py-1">
+			<li class="py-1">
 				<a href="{{.RelPermalink}}"> {{ .Title }} </a>
 			</li>
 		{{ end }}

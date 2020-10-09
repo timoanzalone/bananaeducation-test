@@ -42,3 +42,11 @@ date = ["date", "publishDate", "lastmod"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
+
+[languages]
+  [languages.en]
+    title = "Banana Accounting Education"
+    weight = 1
+  [languages.fr]
+    title = "Banana Comptabilité Education"
+    weight = 2

@@ -1,8 +1,6 @@
 {{ define "main" }}
 	{{if .Site.Home.Content }}
 
-	<h1>{{ .Title }}</h1>
-
 	{{.Site.Home.Content}}
 	{{else}}
 			<h1>Banana Comptabilité</h1>
@@ -15,4 +13,15 @@
 			</ul>
 	{{ end }}
 
+
+{{ if .IsTranslated }}
+	<h4>{{ i18n "translations" }}</h4>
+	<ul>
+		{{ range .Translations }}
+				<li>
+						<a href="{{ .RelPermalink }}">{{ .Lang }}: {{ .Title }}</a>
+				</li>
+		{{ end }}
+	</ul>
+{{ end }}
 {{ end }}

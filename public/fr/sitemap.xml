@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity1/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity2/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity3/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity4/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity5/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity6/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity7/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity8/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity9/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/manuel-dutilisation/activity10/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/congo-rdc/</loc>
+    <lastmod>2020-10-07T16:58:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/tags/"
+                />
+  </url>
+  
+</urlset>

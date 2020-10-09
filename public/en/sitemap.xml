@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bananaeducation.netlify.app/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://bananaeducation.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bananaeducation.netlify.app/en/tags/"
+                />
+  </url>
+  
+</urlset>
